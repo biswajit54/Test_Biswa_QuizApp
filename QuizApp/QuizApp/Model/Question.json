@@ -1,0 +1,115 @@
+{ "response":{
+    "data":[
+        {
+            "question": "The great Victoria Desert is located in?",
+            "correct_response": 3,
+            "questionNo": "1",
+            "responses": [
+                "Canada",
+                "West Africa",
+                "Australia",
+                "North America"
+            ]
+        },
+        {
+            "question": "Who is the Governer of Karnataka?",
+            "correct_response": 1,
+            "questionNo": "2",
+            "responses": [
+                "Shri Vajubhai Vala",
+                "Dr. Tamilisai Soundararajan",
+                "Shri Banwarilal Purohit",
+                "Shri Satya Pal Malik"
+            ]
+        },
+        {
+            "question": "Who invented Law of gases?",
+            "correct_response": 4,
+            "questionNo": "3",
+            "responses": [
+                "Gauss",
+                "Herschel, William",
+                "Lockyer",
+                "Gay Lussac"
+            ]
+        },
+        {
+            "question": "The percentage of irrigated land in India is about",
+            "correct_response": 3,
+            "questionNo": "4",
+            "responses": [
+                "45",
+                "65",
+                "35",
+                "25"
+            ]
+        },
+        {
+            "question": "What is part of a database that holds only one type of information?",
+            "correct_response": 2,
+            "questionNo": "5",
+            "responses": [
+                "Report",
+                "Field",
+                "Record",
+                "File"
+            ]
+        },
+        {
+            "question": "The Indian delegation to the first World Conference on Human Rights was led by?",
+            "correct_response": 1,
+            "questionNo": "6",
+            "responses": [
+                "Dr. Manmohan Singh",
+                "Farooq Abdullah",
+                "Dinesh singh",
+                "Alam Khan"
+            ]
+        },
+        {
+            "question": "Nuclear sizes are expressed in a unit named",
+            "correct_response": 1,
+            "questionNo": "7",
+            "responses": [
+                "Fermi",
+                "angstrom",
+                "newton",
+                "tesla"
+            ]
+        },
+        {
+            "question": "The Centre for Cellular and Molecular Biology is situated at",
+            "correct_response": 3,
+            "questionNo": "8",
+            "responses": [
+                "Patna",
+                "Jaipur",
+                "Hyderabad",
+                "New Delhi"
+            ]
+        },
+        {
+            "question": "Which was the 1st non Test playing country to beat India in an international match?",
+            "correct_response": 2,
+            "questionNo": "9",
+            "responses": [
+                "Canada",
+                "Sri Lanka",
+                "Zimbabwe",
+                "East Africa"
+            ]
+        },
+        {
+            "question": "The ratio of width of our National flag to its length is",
+            "correct_response": 2,
+            "questionNo": "10",
+            "responses": [
+                "3:5",
+                "2:3",
+                "2:4",
+                "3:4"
+            ]
+        }
+    ]
+}
+}
